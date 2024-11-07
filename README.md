@@ -1,4 +1,4 @@
-#OpenAI-ChatBot-using-MERN
+# OpenAI-ChatBot-using-MERN
 This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI API
 
 It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted.
